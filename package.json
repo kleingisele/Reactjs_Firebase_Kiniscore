@@ -12,7 +12,7 @@
     "@testing-library/user-event": "^7.2.1",
     "cors": "^2.8.5",
     "emailjs": "^3.0.0",
-    "firebase": "^7.15.0",
+    "firebase": "^10.9.0",
     "history": "^4.10.1",
     "icons": "^1.0.0",
     "material-table": "^1.59.0",
